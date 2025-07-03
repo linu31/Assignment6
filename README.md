@@ -9,7 +9,5 @@ An eCommerce website is an online platform that enables businesses and consumers
 
 
 
-👨‍💻 Made by: Sanjana
-
-📄 License: This project is licensed under the MIT License — feel free to use, modify, and share!
+👨‍💻 Made by Linu priyanth
 
